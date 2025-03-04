@@ -20,7 +20,7 @@ public class P1978 {
                 if (num % j == 0) {
                     check = false;
                     break;
-                }   
+                }
             }
 
             if (check) count++;
